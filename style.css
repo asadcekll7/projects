@@ -268,6 +268,9 @@ span, a{
     .miniorta{
         width: 48%;
     }
+    .txt1, .txt{
+        width: 500px;
+    }
     .bx1{
         width: 20%;
     }
@@ -339,6 +342,17 @@ span, a{
         width: 100%;
         margin: auto;
     }
+    .bx1{
+        margin-top: 20px;
+    }
+    .pid1{
+        width: 100%
+    }
+    .fon, .fon1, .zz{
+        width: 100%;
+        text-align: center;
+        margin: auto;
+    }
     .rr, .x7{
         text-align: center;
     }
@@ -362,9 +376,43 @@ span, a{
     }
     .bx1{
         width: 100%;
-        margin-right: 15    00px;
+        height: auto;
     }
     .tepa{
         width: 100%;
     }
+    .yozi{
+        margin: auto;
+        width: 350px;
+    }
+    .ttt{
+        margin: auto    ;
+}
+.ll{
+    margin: auto;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+.txt1{
+    width: 500px;
+    margin: auto;
+    padding-right: 500px;
+    width: 100%;
+}
+.mini{
+    margin: auto;
+    width: 100%;
+}
+.tepa{
+    width: 100%;
+}
+.pic{
+    margin-left: 220px;
+}
+.tt1{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px ;
+    line-height: 1.6;
+}
 }
